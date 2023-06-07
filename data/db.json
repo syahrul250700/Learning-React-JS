@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea quod corrupti ex consequuntur deserunt excepturi, consectetur natus dolorem maiores hic. Ipsa deleniti architecto et laudantium perferendis officiis sapiente eum reprehenderit",
+      "author": "syahrul",
+      "id": 1
+    },
+    {
+      "title": "My Second Blog",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea quod corrupti ex consequuntur deserunt excepturi, consectetur natus dolorem maiores hic. Ipsa deleniti architecto et laudantium perferendis officiis sapiente eum reprehenderit",
+      "author": "Hanas",
+      "id": 2
+    },
+    {
+      "title": "Make React JS Tutorial",
+      "body": "uedhsfhkkkdkfjdkjkfguirhfgusnxjcnjngudsnunwfslk mrgjvnrhgreuurhthyiutiehte5yhn rotrnvituiet ritjrngjerj vtijrtorjete ",
+      "author": "Syahrul Aenaeni Hanas",
+      "id": 3
+    }
+  ]
+}
