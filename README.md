@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+In this example project the node_modules folder was not uploaded because there were too many. So when installing React JS, it will be able to folder node_modules
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
